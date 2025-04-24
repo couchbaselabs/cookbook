@@ -1,10 +1,8 @@
 {
   "type": "fulltext-index",
   "name": "gemini_index",
-  "uuid": "77d79197d4fdc26f",
   "sourceType": "gocbcore",
   "sourceName": "vector-search-testing",
-  "sourceUUID": "91519e061607729ecaffeeedf0c23d38",
   "planParams": {
     "maxPartitionsPerPIndex": 1024,
     "indexPartitions": 1
